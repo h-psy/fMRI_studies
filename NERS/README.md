@@ -1,4 +1,4 @@
-# Developed Decoders
+# Common and distinct neurofunctional signatures of dynamic naturalistic emotion regulation strategies
 
 This repository contains the code used to develop and test the naturalistic emotion regulation signatures, including:  
 
