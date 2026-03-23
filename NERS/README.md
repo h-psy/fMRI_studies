@@ -1,8 +1,15 @@
-Naturalistic emotion regulation signatures
-=
-This repository contains code used to devlop and test the naturalistic emotion regulation signatures, including naturalistic emotion regulation signature-acceptance (NERS-A),
-naturalistic emotion regulation signature-reappraisal (NERS-R), naturalistic negative emotion signature (NNES). See Jiang et al. 2025 BioRxiv for details (https://doi.org/10.1101/2025.05.29.25328539)
-.
+# Developed Decoders
+
+This repository contains the code used to develop and test the naturalistic emotion regulation signatures, including:  
+
+- **NERS-A** – Naturalistic Emotion Regulation Signature: Acceptance  
+- **NERS-R** – Naturalistic Emotion Regulation Signature: Reappraisal  
+- **NNES** – Naturalistic Negative Emotion Signature
+
+Currently, the scripts follow the order of the original manuscript. Scripts corresponding to the final published manuscript will be updated gradually.
+
+See **Jiang et al., 2026, Nature Communications** for details: [DOI: 10.1038/s41467-026-70708-5](https://doi.org/10.1038/s41467-026-70708-5).
+
 
 fMRI data used to train the signatures are available via figshare at https://doi.org/10.6084/m9.figshare.29179934.v1.
 
