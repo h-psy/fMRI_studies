@@ -6,8 +6,7 @@ This repository contains the code used to develop and test the naturalistic emot
 - **NERS-R** – Naturalistic Emotion Regulation Signature: Reappraisal  
 - **NNES** – Naturalistic Negative Emotion Signature
 
-Currently, the scripts follow the order of the original manuscript (please see: https://www.medrxiv.org/content/10.1101/2025.05.29.25328539v1).
-Scripts corresponding to the final published manuscript will be updated gradually.
+Currently, the scripts follow the order of the original manuscript (please see: https://www.medrxiv.org/content/10.1101/2025.05.29.25328539v1). Scripts corresponding to the final published manuscript will be updated gradually.
 
 See **Jiang et al., 2026, Nature Communications** for details: [DOI: 10.1038/s41467-026-70708-5](https://doi.org/10.1038/s41467-026-70708-5).
 
