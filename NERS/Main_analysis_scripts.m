@@ -37,7 +37,7 @@ n_folds = n_folds(:);
 
 % Predict preformance
 ROC_loso = roc_plot(stats_loso.dist_from_hyperplane_xval, data.Y == 1, ...
-    'threshold', 0,'color',[255 194 75]);
+    'threshold', 0,'color',[0 0 0]);
 %% Bootstrap test
 [~, stats_boot] = predict(data, 'algorithm_name', 'cv_svm', 'nfolds', 1, ...
     'error_type', 'mcr', 'bootweights', 'bootsamples', 10000);
